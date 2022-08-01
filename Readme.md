@@ -14,8 +14,8 @@
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-## Thanks For Helps:
+<br>
+<br>
 
 - Thanks to my boyfriend for making my Website  
 [![Twitter Follow](https://img.shields.io/twitter/follow/burakcbdn?color=1DA1F2&style=for-the-badge)](https://www.twitter.com/burakcbdn)
